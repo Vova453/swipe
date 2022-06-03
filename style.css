@@ -1,0 +1,18 @@
+html body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.wrapper{
+    
+}
+.image-slider__image{
+    text-align: center;
+}
+.image-slider__image img{
+    max-width: 100%;
+}
+.image-slider__swipe{
+    
+}
